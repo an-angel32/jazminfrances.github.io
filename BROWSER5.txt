@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html><head><title>ID Selector Example</title>
+<style type="text/css">
+p#special {color:green;}
+</style>
+</head>
+
+<body>
+<h1>Favorite Foods</h1>
+<p id="special">Pizza</p>
+<p>Burger</p>
+<p>Pasta</p>
+
+</body>
+</html>
